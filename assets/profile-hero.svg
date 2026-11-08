@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Md Raiyaan Tarique — Software and AI engineering</title>
+  <desc id="desc">Full-stack products. AI workflows. Systems you can inspect.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1326"/><stop offset="1" stop-color="#132a3d"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#58dcc7"/><stop offset="1" stop-color="#70aaff"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#7292b3" stroke-opacity=".09"/></pattern>
+  </defs>
+  <rect width="1280" height="340" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="340" rx="20" fill="url(#grid)"/>
+  <rect x="48" y="43" width="34" height="4" rx="2" fill="#58dcc7"/>
+  <text x="96" y="49" fill="#b1c6dc" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3">RYNTRQ / SOFTWARE &amp; AI ENGINEERING</text>
+  <g fill="#f2f7fc" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" letter-spacing="-1">
+    <text x="48" y="126">Full-stack products.</text>
+    <text x="48" y="184">AI workflows.</text>
+    <text x="48" y="242">Systems you can inspect.</text>
+  </g>
+  <text x="50" y="295" fill="#a1bad0" font-family="Arial,Helvetica,sans-serif" font-size="16">MD RAIYAAN TARIQUE</text>
+  <g fill="none" stroke="url(#line)" stroke-width="2">
+    <path d="M840 112H925V225H1045V154H1154"/>
+    <path d="M840 112V225H925M1045 154V112H1154" opacity=".35"/>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" text-anchor="middle" font-size="12" letter-spacing="2">
+    <g transform="translate(840 112)"><rect x="-48" y="-26" width="96" height="52" rx="12" fill="#142d40" stroke="#58dcc7"/><text y="4" fill="#dcfff7">INTERFACE</text></g>
+    <g transform="translate(925 225)"><rect x="-43" y="-26" width="86" height="52" rx="12" fill="#142d40" stroke="#58dcc7"/><text y="4" fill="#dcfff7">API</text></g>
+    <g transform="translate(1045 154)"><rect x="-48" y="-26" width="96" height="52" rx="12" fill="#142d40" stroke="#70aaff"/><text y="4" fill="#dae8ff">WORKFLOW</text></g>
+    <g transform="translate(1154 112)"><rect x="-40" y="-26" width="80" height="52" rx="12" fill="#142d40" stroke="#70aaff"/><text y="4" fill="#dae8ff">DATA</text></g>
+  </g>
+  <circle cx="1192" cy="282" r="4" fill="#58dcc7"/>
+  <text x="1176" y="287" text-anchor="end" fill="#a1bad0" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2">IDEA → EXECUTION</text>
+</svg>
