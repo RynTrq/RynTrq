@@ -12,7 +12,7 @@ I build software across the interface, API, workflow and data layers. My project
 
 ## Start here
 
-Six projects that show how I approach different engineering problems:
+Six projects that show how I approach different engineering problems. For the full collection, **[browse the project catalog](PROJECTS.md)**.
 
 | Project | What to look for | Core technologies |
 | :--- | :--- | :--- |
